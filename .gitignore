@@ -6,3 +6,4 @@ venv/
 .env.*
 static/files/*
 !static/files/.gitkeep
+!.env.example
